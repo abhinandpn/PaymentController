@@ -15,4 +15,5 @@ tables
 > stock
 > user inventory
 > user coins 
+> new
 ```
