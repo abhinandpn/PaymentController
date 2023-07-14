@@ -7,4 +7,12 @@ ___
 ```
 started
 hI
+
+tables 
+
+> user 
+> admin
+> stock
+> user inventory
+> user coins 
 ```
