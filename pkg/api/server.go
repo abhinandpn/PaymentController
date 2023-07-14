@@ -5,9 +5,9 @@ import (
 	swaggerfiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
 
-	_ "github.com/abhinandpn/PaymentController/cmd/api/docs"
-	handler "github.com/abhinandpn/PaymentController/pkg/api/handler"
-	middleware "github.com/abhinandpn/PaymentController/pkg/api/middleware"
+	_ "github.com/abhinandpn/StockX/cmd/api/docs"
+	handler "github.com/abhinandpn/StockX/pkg/api/handler"
+	middleware "github.com/abhinandpn/StockX/pkg/api/middleware"
 )
 
 type ServerHTTP struct {

@@ -7,8 +7,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/copier"
 
-	domain "github.com/abhinandpn/PaymentController/pkg/domain"
-	services "github.com/abhinandpn/PaymentController/pkg/usecase/interface"
+	domain "github.com/abhinandpn/StockX/pkg/domain"
+	services "github.com/abhinandpn/StockX/pkg/usecase/interface"
 )
 
 type UserHandler struct {

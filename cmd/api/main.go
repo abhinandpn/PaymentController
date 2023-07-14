@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	config "github.com/abhinandpn/PaymentController/pkg/config"
-	di "github.com/abhinandpn/PaymentController/pkg/di"
+	config "github.com/abhinandpn/StockX/pkg/config"
+	di "github.com/abhinandpn/StockX/pkg/di"
 )
 
 func main() {

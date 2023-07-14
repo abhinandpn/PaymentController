@@ -3,7 +3,7 @@ package interfaces
 import (
 	"context"
 
-	domain "github.com/abhinandpn/PaymentController/pkg/domain"
+	domain "github.com/abhinandpn/StockX/pkg/domain"
 )
 
 type UserUseCase interface {

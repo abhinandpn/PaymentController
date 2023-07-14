@@ -3,8 +3,8 @@ package repository
 import (
 	"context"
 
-	domain "github.com/abhinandpn/PaymentController/pkg/domain"
-	interfaces "github.com/abhinandpn/PaymentController/pkg/repository/interface"
+	domain "github.com/abhinandpn/StockX/pkg/domain"
+	interfaces "github.com/abhinandpn/StockX/pkg/repository/interface"
 	"gorm.io/gorm"
 )
 

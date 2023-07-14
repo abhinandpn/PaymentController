@@ -7,12 +7,12 @@
 package di
 
 import (
-	"github.com/abhinandpn/PaymentController/pkg/api"
-	"github.com/abhinandpn/PaymentController/pkg/api/handler"
-	"github.com/abhinandpn/PaymentController/pkg/config"
-	"github.com/abhinandpn/PaymentController/pkg/db"
-	"github.com/abhinandpn/PaymentController/pkg/repository"
-	"github.com/abhinandpn/PaymentController/pkg/usecase"
+	"github.com/abhinandpn/StockX/pkg/api"
+	"github.com/abhinandpn/StockX/pkg/api/handler"
+	"github.com/abhinandpn/StockX/pkg/config"
+	"github.com/abhinandpn/StockX/pkg/db"
+	"github.com/abhinandpn/StockX/pkg/repository"
+	"github.com/abhinandpn/StockX/pkg/usecase"
 )
 
 // Injectors from wire.go:

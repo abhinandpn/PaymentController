@@ -3,7 +3,7 @@ package interfaces
 import (
 	"context"
 
-	"github.com/abhinandpn/PaymentController/pkg/domain"
+	"github.com/abhinandpn/StockX/pkg/domain"
 )
 
 type UserRepository interface {

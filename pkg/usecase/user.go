@@ -3,9 +3,9 @@ package usecase
 import (
 	"context"
 
-	domain "github.com/abhinandpn/PaymentController/pkg/domain"
-	interfaces "github.com/abhinandpn/PaymentController/pkg/repository/interface"
-	services "github.com/abhinandpn/PaymentController/pkg/usecase/interface"
+	domain "github.com/abhinandpn/StockX/pkg/domain"
+	interfaces "github.com/abhinandpn/StockX/pkg/repository/interface"
+	services "github.com/abhinandpn/StockX/pkg/usecase/interface"
 )
 
 type userUseCase struct {

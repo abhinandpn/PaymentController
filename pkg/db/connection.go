@@ -6,8 +6,8 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 
-	config "github.com/abhinandpn/PaymentController/pkg/config"
-	domain "github.com/abhinandpn/PaymentController/pkg/domain"
+	config "github.com/abhinandpn/StockX/pkg/config"
+	domain "github.com/abhinandpn/StockX/pkg/domain"
 )
 
 func ConnectDatabase(cfg config.Config) (*gorm.DB, error) {

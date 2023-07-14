@@ -1,4 +1,4 @@
-module github.com/abhinandpn/PaymentController
+module github.com/abhinandpn/StockX
 
 go 1.20
 

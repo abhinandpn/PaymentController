@@ -5,12 +5,12 @@ package di
 
 import (
 	"github.com/google/wire"
-	http "github.com/abhinandpn/PaymentController/pkg/api"
-	handler "github.com/abhinandpn/PaymentController/pkg/api/handler"
-	config "github.com/abhinandpn/PaymentController/pkg/config"
-	db "github.com/abhinandpn/PaymentController/pkg/db"
-	repository "github.com/abhinandpn/PaymentController/pkg/repository"
-	usecase "github.com/abhinandpn/PaymentController/pkg/usecase"
+	http "github.com/abhinandpn/StockX/pkg/api"
+	handler "github.com/abhinandpn/StockX/pkg/api/handler"
+	config "github.com/abhinandpn/StockX/pkg/config"
+	db "github.com/abhinandpn/StockX/pkg/db"
+	repository "github.com/abhinandpn/StockX/pkg/repository"
+	usecase "github.com/abhinandpn/StockX/pkg/usecase"
 )
 
 func InitializeAPI(cfg config.Config) (*http.ServerHTTP, error) {
